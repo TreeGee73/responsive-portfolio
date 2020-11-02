@@ -1,0 +1,15 @@
+.nav-blue {
+    background-color: #0c3a79;
+    color: #Ededed;
+    padding: 10px;
+}
+
+img {
+    float: left;
+}
+
+.footer-blue {
+    width: 100%;
+    text-align: center;
+    padding: 25px;
+}
