@@ -28,9 +28,9 @@ For this page I utilized the standard bootstrap and the same CSS created for the
 
 
 ## Portfolio (portfolio.html)
-Same as the index.html and contact.html, I utilized bootstrap and the CSS. I added placeholder images for eight futre portfolio images and links. The layout was designed using simple rows and columns and Cards formatted to be images only and arranged using Grid Cards related classes. This results in five images arranged in two columns and three rows for displays larger than 767, and one column for displays 767 and smaller. I added additional styling to CSS to ensure display results align to the images given as examples.
+Same as the index.html and contact.html, I utilized bootstrap and the CSS. I added placeholder images for eight futre portfolio images and links. The layout was designed using simple rows and columns and Cards. This results in five images arranged in two columns and three rows for displays larger than 767, and one column for displays 767 and smaller. I added additional styling to CSS to ensure display results align to the images given as examples. Because the cards included additional parameters, retained those parameters commented out for utilization in future updates if they make sense. Will assess and keep or remove with future updates.
 
 
 
 ## Challenges
-While creating these pages I encountered several formatting challenges that were resolved using additional CSS formatting. I relied heavily on previous assignments and the [Bootstrap](https://getbootstrap.com/) website to find solutions or alternatives for accomplishing the tasks given.
+While creating these pages I encountered several formatting challenges, especially on the portfolio page when making the layout responsive. I relied heavily on previous assignments and the [Bootstrap](https://getbootstrap.com/) website to find solutions or alternatives for accomplishing the tasks given.

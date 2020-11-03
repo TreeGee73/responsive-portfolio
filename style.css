@@ -14,14 +14,7 @@ body {
     background-color: rgba(122, 153, 196, 0.75);
     color: #0c3a79;
     margin-top: 50px;
-    margin-bottom: 30px;
-}
-
-.cont-bg-blue-p {
-    background-color: rgba(122, 153, 196, 0.75);
-    color: #0c3a79;
-    margin-top: 50px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 h1 {
@@ -57,9 +50,6 @@ a {
 }
 
 .footer-blue {
-    position: fixed;
-    left: 0;
-    bottom: 0;
     width: 100%;
     text-align: center;
     padding-bottom: .25rem;
