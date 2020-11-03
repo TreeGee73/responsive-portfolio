@@ -13,10 +13,12 @@ To complete this project I used the following references:
 
 * [Bootstrap](https://getbootstrap.com/) website - utilized to garner a better understanding of bootstrap and to apply appropriate code for the layouts to achieve the project requirements
 
+* Self Acquired Images - All images on the site are my personal images that have been created/edited for this project
+
 
 
 ## About Me (index.html)
-For this page I started with the standard bootstrap styles, implimenting the dark themed nav bar. I personalized the page using a web optimized photo for the background and some additional colors to make the page "me". I encountered some issues with the margins using the base formatting so I tweaked those as well within the CSS to make the layout better align to the images given as examples.
+For this page I started with the standard bootstrap styles, implimenting the dark themed nav bar. I personalized the page using a web optimized photo for the background and some additional colors to make the page "me". I encountered some issues with the margins using the base formatting so I tweaked those as well within the CSS to make the layout better align to the images given as examples. Added buttons for connecting with me on LinkedIn and GitHub.
 
 
 
@@ -26,4 +28,9 @@ For this page I utilized the standard bootstrap and the same CSS created for the
 
 
 ## Portfolio (portfolio.html)
-Same as the index.html and contact.html, I utilized
+Same as the index.html and contact.html, I utilized bootstrap and the CSS. I added placeholder images for eight futre portfolio images and links. The layout was designed using simple rows and columns and Cards formatted to be images only and arranged using Grid Cards related classes. This results in five images arranged in two columns and three rows for displays larger than 767, and one column for displays 767 and smaller. I added additional styling to CSS to ensure display results align to the images given as examples.
+
+
+
+## Challenges
+While creating these pages I encountered several formatting challenges that were resolved using additional CSS formatting. I relied heavily on previous assignments and the [Bootstrap](https://getbootstrap.com/) website to find solutions or alternatives for accomplishing the tasks given.
