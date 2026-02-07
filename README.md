@@ -1,3 +1,13 @@
+## 📚 Educational Project
+
+This project was completed as part of University of Arizona Full-Stack Web Development Bootcamp to demonstrate understanding of specific concepts like: HTML, Bootstrap, and minimal CSS.<br>
+
+**Status:** Archived - No longer under active development<br>
+**Purpose:** Portfolio demonstration of technical concepts<br>
+**Completed:** November 2020
+
+---
+
 # responsive-portfolio
 
 The purpose of this project is to build a basic site consisting of three web pages that can be used to showcase the developer and their work. Creating this type of site will allow the developer to give potential clients/employers some insight into the developer through an "About Me" page, an idea of their work through a "Portfolio" page, and a means of getting in touch with the developer via a "Contact" page. This site is an important tool in obtaining opportunities for employment.
